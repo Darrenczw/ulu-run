@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F5F1E4"/>
+  <path d="M0 236 C70 196 120 228 190 206 S320 150 400 182 S480 214 512 200 L512 512 L0 512Z" fill="#8ED462"/>
+  <path d="M150 360 C150 290 210 262 262 270 S360 318 352 372 S280 438 222 420 S150 400 150 360Z" fill="none" stroke="#2C2E2A" stroke-width="22" stroke-linecap="round"/>
+  <rect x="96" y="96" width="232" height="92" rx="46" fill="#2C2E2A"/>
+  <text x="212" y="160" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-weight="800" font-size="56" fill="#F5E211">ULU</text>
+  <circle cx="150" cy="360" r="26" fill="#2C2E2A"/>
+</svg>
