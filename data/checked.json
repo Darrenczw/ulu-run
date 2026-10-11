@@ -1,0 +1,16 @@
+{
+  "_readme": "Run & checked routes. Darren edits this file (PRD 7.9). Each entry promotes a generated route by its id. 'sample: true' marks placeholder content for the prototype; delete it once the route has really been run.",
+  "routes": [
+    {
+      "id": "g-675d820a",
+      "sample": true,
+      "measuredKm": null,
+      "lastChecked": null,
+      "notes": [
+        "SAMPLE: Darren to write after running this route.",
+        "What it's like, the best time to go, and what to watch for, in first person."
+      ],
+      "extras": { "bestTime": null, "shade": null, "water": null, "toilets": null }
+    }
+  ]
+}
